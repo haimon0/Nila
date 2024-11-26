@@ -2,8 +2,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/haimon0/Nila/tree/main">
-    <img src="https://github.com/user-attachments/assets/71ac3ea6-b5f4-4160-94ea-5a54fc7e421b" alt="Logo" width="150" height="150">
+    <img src="https://github.com/user-attachments/assets/9944389d-8808-40a5-b071-56a8ac0b81fd" alt="Logo" width="150" height="150">    
   </a>
+
+
 
   <h3 align="center">Nila</h3>
 
@@ -76,29 +78,33 @@ It's key features are:
 
 <p>Forest Level</p>
 
-![image](https://github.com/user-attachments/assets/4a6056d9-0643-474c-8153-571e96de9b78)
+![image](https://github.com/user-attachments/assets/f003be9d-e9de-449e-9790-b4ae2373863e)
+
+
 
 
 <p>Volcano Level</p>
 
-![image](https://github.com/user-attachments/assets/388f1705-21a7-4abb-8ea8-6757e642c00f)
+![image](https://github.com/user-attachments/assets/dfdc30c0-eca2-48ca-ac57-a58c85ba8959)
+
 
 
 <p>Snowy Level</p>
 
-![image](https://github.com/user-attachments/assets/28a9cace-4675-4a94-ad3f-4deb67be9c47)
+![image](https://github.com/user-attachments/assets/d12b9eea-f951-4919-ac32-f718a65fc539)
+
 
 
 <p>Samurai Level</p>
 
-![image](https://github.com/user-attachments/assets/6c3816f7-9a1d-46cf-bdd0-65da3d4e0363)
+![image](https://github.com/user-attachments/assets/81dfb301-77a2-4671-b575-9234e1e00419)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p>Lake Level</p>
 
-![image](https://github.com/user-attachments/assets/57d98ec6-1dfe-45d0-a5d9-2077b86d5525)
+![image](https://github.com/user-attachments/assets/b487572f-1050-4018-bf82-d38a5ca23710)
+
 
 
 <p>Main Menu</p>
