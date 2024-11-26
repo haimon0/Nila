@@ -109,23 +109,27 @@ It's key features are:
 
 <p>Main Menu</p>
 
-![image](https://github.com/user-attachments/assets/d3e080ef-0144-4fe0-8cb3-d8873a59a79c)
+![image](https://github.com/user-attachments/assets/ea6b608b-4059-4dd8-85ba-66e5ff438784)
+
 
 
 <p>Volume Adjuster</p>
 
-![image](https://github.com/user-attachments/assets/4c5ab4d2-1b8c-4a5f-997e-fc93d314114b)
+![image](https://github.com/user-attachments/assets/e4db29b7-fcfb-4efa-8132-d6861179a1ed)
+
 
 
 
 <p>Leaderboard</p>
 
-![image](https://github.com/user-attachments/assets/a2648794-b7d0-4b1a-b666-da3b032242b8)
+![image](https://github.com/user-attachments/assets/3eb2f3c1-6959-4bb7-a4bc-ea555e5be060)
+
 
 
 <p>Controls</p>
 
-![image](https://github.com/user-attachments/assets/d2d639fa-c576-4605-9580-b2c0e2b59c23)
+![image](https://github.com/user-attachments/assets/6b0b7785-9177-4b5a-9d0e-c4653fb2e054)
+
 
 
 
