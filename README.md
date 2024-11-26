@@ -34,6 +34,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#credits">Credits</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -132,6 +133,13 @@ It's key features are:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
+<!-- CREDITS -->
+## Credits
+
+Credits for assets used can be found in data/credits.txt
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
