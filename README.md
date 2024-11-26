@@ -112,7 +112,7 @@ It's key features are:
 
 
 
-<p>Leaderbaord</p>
+<p>Leaderboard</p>
 
 ![image](https://github.com/user-attachments/assets/a2648794-b7d0-4b1a-b666-da3b032242b8)
 
